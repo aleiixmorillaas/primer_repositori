@@ -6,3 +6,4 @@ Projecte 2
 Aleix Morillas Ferran.
 
 SMXb2.
+.
